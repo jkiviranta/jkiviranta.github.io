@@ -96,23 +96,18 @@ skills:
     items:
       - name: R
         description: ''
-        percent: 80
         icon: code-bracket
       - name: Stata
         description: ''
-        percent: 100
         icon: code-bracket
-      - name: Python
+      - name: Python (webscraping and basics)
         description: ''
-        percent: 40
         icon: code-bracket
       - name: Latex
         description: ''
-        percent: 40
         icon: code-bracket
       - name: ArcGIS
         description: ''
-        percent: 40
         icon: code-bracket              
   - name: Hobbies
     color: '#eeac02'
@@ -120,11 +115,9 @@ skills:
     items:
       - name: Cooking
         description: ''
-        percent: 60
         icon: person-simple-walk
       - name: Hiking
         description: ''
-        percent: 60
         icon: person-simple-walk
 
 languages:
@@ -143,7 +136,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
+awards:
   - title: Dean's List for the best 3% of the students graduating on time 
     date: '2022-12-01'
     awarder: Aalto University School of Business
