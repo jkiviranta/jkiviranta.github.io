@@ -24,7 +24,7 @@ role: Doctoral researcher in Economics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: KU Leuven
-    url: [https://openai.com/](https://feb.kuleuven.be/research/economics)
+    url: https://feb.kuleuven.be/research/economics
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
