@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research Agenda'
+      title: 'My Research Agenda'
       subtitle: ''
       text: |-
         I am a microeconomist with a research agenda on environmental economics and electricity markets. Methodologically I use the tools of mechanism design and industrial organization.
@@ -44,7 +44,7 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My Teaching'
+      title: 'My Teaching'
       subtitle: ''
       text: |-
         TA:
@@ -58,7 +58,7 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 Work in Progress'
+      title: 'Work in Progress'
       subtitle: ''
       text: |-
         - An Insurance Perspective to Household Electricity Contracts
@@ -77,16 +77,16 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: ""
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
+#    design:
+#      view: citation
 #  - block: collection
 #    id: talks
 #    content:
