@@ -32,18 +32,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jkiviranta
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/juusokiviranta
+ # - icon: academicons/google-scholar
+ #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: http://orcid.org/0009-0001-6370-2312
 
 interests:
   - Market design
@@ -57,23 +55,21 @@ education:
     institution: KU Leuven
     date_start: 2024-10-01
     date_end: ''
+  - area: PhD in Economics (course phase)
+    institution: University of Zurich
+    date_start: 2022-08-15
+    date_end: 2024-08-31
+   - area: MSc in Economics (research master)
+    institution: Aalto University
+    date_start: 2020-08-15
+    date_end: 2022-04-21
+  - area: BSc in Economics and Business Administration
+    institution: Aalto University
+    date_start: 2017-09-01
+    date_end: 2020-03   
 #    summary: |
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
-#  - area: MEng Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      GPA: 3.8/4.0
 
- #     Courses included:
- #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
- #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
- #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
- 
 work:
   - position: Intern
     company_name: Finnish Minsitry of Finance
