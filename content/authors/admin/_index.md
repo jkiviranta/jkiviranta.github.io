@@ -55,10 +55,10 @@ education:
     institution: KU Leuven
     date_start: 2024-10-01
     date_end: ''
-#  - area: PhD in Economics (course phase)
-#    institution: University of Zurich
-#    date_start: 2022-08-15
-#    date_end: 2024-08-31
+  - area: PhD in Economics (course phase)
+    institution: University of Zurich
+    date_start: 2022-08-15
+    date_end: 2024-08-31
 #   - area: MSc in Economics (research master)
 #    institution: Aalto University
 #    date_start: 2020-08-15
