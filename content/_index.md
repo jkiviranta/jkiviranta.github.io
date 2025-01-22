@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a microeconomist with a research agenda on environmental economics and electricity markets. Methodologically I use the tools of mechanism design and industrial organization.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research strives to understand ways to increase demand flexibility in the electricity to make way for higher adoption of renewables. I concentrate on residential electricity contracts and drivers behind household's contract decisions. The ultimate goal of my research is to find ways to unlock demand flexibility while keeping it possible for the households to insure themselves against price risk at the lvel they prefer.
         
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
