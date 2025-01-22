@@ -59,14 +59,14 @@ education:
     institution: University of Zurich
     date_start: 2022-08-15
     date_end: 2024-08-31
-   - area: MSc in Economics (research master)
+  - area: MSc in Economics (research master)
     institution: Aalto University
     date_start: 2020-08-15
     date_end: 2022-04-25
-#  - area: BSc in Economics and Business Administration
-#    institution: Aalto University
-#    date_start: 2017-09-01
-#    date_end: 2020-03-30   
+  - area: BSc in Economics and Business Administration
+    institution: Aalto University
+    date_start: 2017-09-01
+    date_end: 2020-03-30   
 #    summary: |
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 
