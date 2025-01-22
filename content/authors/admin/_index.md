@@ -73,10 +73,16 @@ education:
 work:
   - position: Intern
     company_name: Finnish Minsitry of Finance
-    company_url: ''
+    company_url: https://vm.fi/en/frontpage
     company_logo: ''
     date_start: 2022-04-01
     date_end: 2022-06-30
+  - position: Analyst intern
+    company_name: Compass Lexecon Finland
+    company_url: https://www.compasslexecon.com/
+    company_logo: ''
+    date_start: 2021-05-01
+    date_end: 2021-08-31
 #    summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -95,15 +101,27 @@ skills:
       - name: Stata
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
+      - name: Latex
+        description: ''
+        percent: 40
+        icon: code-bracket
+      - name: ArcGIS
+        description: ''
+        percent: 40
+        icon: code-bracket              
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Cooking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
       - name: Hiking
         description: ''
         percent: 60
@@ -126,13 +144,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 #awards:
-#  - title: Neural Networks and Deep Learning
-#    url: https://www.coursera.org/learn/neural-networks-deep-learning
-#    date: '2023-11-25'
-#    awarder: Coursera
-#    icon: coursera
-#    summary: |
-#      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Dean's List for the best 3% of the students graduating on time 
+    date: '2022-12-01'
+    awarder: Aalto University School of Business
+  - title: Dean's Thesis Grant for a talented student striving for an academic career
+    date: '2022-03-01'
+    awarder: Aalto University School of Business
+  - title: Ilkka Kontula Foundation Grant for excellent success in studies
+    date: '2019-05-01'
+    awarder: Aalto University School of Business
 ---
 
 ## About Me
