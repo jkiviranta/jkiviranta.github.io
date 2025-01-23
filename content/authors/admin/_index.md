@@ -38,13 +38,14 @@ profiles:
     url: https://github.com/jkiviranta
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/juusokiviranta
-  - icon: fab/bluseky
+  - icon: blesky-brands-solid.svg
     url: https://bsky.app/profile/juusokiviranta.bsky.social
  # - icon: academicons/google-scholar
  #   url: https://scholar.google.com/
   - icon: academicons/orcid
     url: http://orcid.org/0009-0001-6370-2312
-  - icon: bootstrap/suitcase-lg
+ # - icon: bootstrap/suitcase-lg
+  - icon: building-columns-solid.svg
     url: https://www.kuleuven.be/wieiswie/en/person/00173964
 
 interests:
