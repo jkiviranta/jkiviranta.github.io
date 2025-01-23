@@ -44,7 +44,17 @@ sections:
 
   - block: markdown
     content:
-      title: 'My Teaching'
+      title: 'Work in Progress'
+      subtitle: ''
+      text: |-
+        - An Insurance Perspective to Household Electricity Contracts
+        
+    design:
+      columns: '1'  
+
+  - block: markdown
+    content:
+      title: 'Teaching'
       subtitle: ''
       text: |-
         TA:
@@ -54,17 +64,7 @@ sections:
           - Assistant supervisor for two MSc thesis projects, KU Leuven, 2024-2025
         
     design:
-      columns: '1'
-
-  - block: markdown
-    content:
-      title: 'Work in Progress'
-      subtitle: ''
-      text: |-
-        - An Insurance Perspective to Household Electricity Contracts
-        
-    design:
-      columns: '1'    
+      columns: '1'  
     
 #  - block: collection
 #    id: papers
