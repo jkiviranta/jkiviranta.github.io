@@ -6,14 +6,14 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: research
 
   - title: "CV"
     #url: /cv/
-    url: /files/CV__Juuso_Kiviranta.pdf/
+    url: files/CV__Juuso_Kiviranta.pdf
 
   - title: "European electricity markets"
-    url: /eur_elec_markets/
+    url: eur_elec_markets
 
   #- title: "Talks"
   #  url: /talks/    
