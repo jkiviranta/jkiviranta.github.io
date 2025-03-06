@@ -8,6 +8,12 @@ main:
   - title: "Research"
     url: /publications/
 
+  - title: "CV"
+    url: /cv/
+
+  - title: "European electricity markets"
+    url: /eur_elec_markets/
+
   #- title: "Talks"
   #  url: /talks/    
 
@@ -20,8 +26,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   #- title: "Guide"
   #  url: /markdown/
