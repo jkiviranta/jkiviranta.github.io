@@ -9,7 +9,8 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /cv/
+    #url: /cv/
+    url: /files/CV__Juuso_Kiviranta
 
   - title: "European electricity markets"
     url: /eur_elec_markets/
