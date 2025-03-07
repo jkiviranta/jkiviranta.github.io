@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Juuso Kiviranta"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Economics at KU Leuven"
+  bio              : "PhD student in Economics"
   location         : "Leuven, Belgium"
-  employer         : "KU Leuven - Departmetn of Economics"
+  employer         : "KU Leuven"
   uri              : # URL
   email            : "juuso.kiviranta@kuleuven.be" 
 
@@ -45,12 +45,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "jkiviranta"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "juusokiviranta.bsky.app" # Replace this with you Bluesky username
+  bluesky          : "juusokiviranta" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
