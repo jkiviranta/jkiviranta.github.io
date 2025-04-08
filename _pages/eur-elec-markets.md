@@ -34,6 +34,15 @@ This pages gives an overview of the European electricity markets.
           svg path:hover {
               fill: #0000FF; /* Highlight color */
           }
+          #data-box {
+              position: absolute;
+              top: 20px;
+              left: 1050px;
+              width: 200px;
+              padding: 10px;
+              border: 1px solid #ccc;
+              background-color: #f9f9f9;
+          }        
       </style>
   </head>
   <body>
