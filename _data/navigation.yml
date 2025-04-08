@@ -13,21 +13,4 @@ main:
     url: files/CV__Juuso_Kiviranta.pdf
 
   - title: "European electricity markets"
-    url: eur_elec_markets
-
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-
-    
-  #- title: "Guide"
-  #  url: /markdown/
+    url: _eur_elec_markets/eur_elec_markets.md
