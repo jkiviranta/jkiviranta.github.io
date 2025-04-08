@@ -1,10 +1,10 @@
 ---
-permalink: "eur-elec-markets"
-title: "European Electricity Markets"
+permalink: "eur-elec-markets2"
+title: "European Electricity Markets 2"
 author_profile: true
 redirect_from: 
-  - /eur-elec-markets/
-  - /eur-elec-markets.md
+  - /eur-elec-markets2/
+  - /eur-elec-markets2.md
 ---
 
 This pages gives an overview of the European electricity markets.
