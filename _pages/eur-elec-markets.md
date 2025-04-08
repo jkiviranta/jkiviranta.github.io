@@ -1,4 +1,4 @@
-cli---
+---
 permalink: "eur-elec-markets"
 title: "European Electricity Markets"
 author_profile: true
