@@ -16,16 +16,23 @@ This pages gives an overview of the European electricity markets.
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Interactive Map</title>
       <style>
+          * {
+            margin: 0;
+            padding: 0;
+          }
+          body {
+            background-color: #f4f4f4;
+          }
           svg path {
-              fill: #ececec;
-              stroke: black;
+              fill: #90D5FF;
+              stroke: #eee;
               stroke-linecap: round;
               stroke-linejoin: round;
               stroke-width: 0.1;
               transition: fill 0.3s;
           }
           svg path:hover {
-              fill: #ffcc00; /* Highlight color */
+              fill: #0000FF; /* Highlight color */
           }
       </style>
   </head>
