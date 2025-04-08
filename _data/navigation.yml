@@ -13,4 +13,4 @@ main:
     url: files/CV__Juuso_Kiviranta.pdf
 
   - title: "European electricity markets"
-    url: pages/eur_elec_markets.md
+    url: /eur-elec-markets/
