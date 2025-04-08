@@ -9,7 +9,7 @@ redirect_from:
 
 This pages gives an overview of the European electricity markets.
 
-<!DOCTYPE html>
+<html>
 <html lang="en">
   <head>
       <meta charset="UTF-8">
