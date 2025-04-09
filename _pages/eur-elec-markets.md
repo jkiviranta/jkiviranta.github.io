@@ -3,8 +3,8 @@ permalink: "eur-elec-markets"
 title: "European Electricity Markets"
 author_profile: true
 redirect_from: 
-  - /eur-elec-markets/
-  - /eur-elec-markets.md
+  - /eur-elec-markets/
+  - /eur-elec-markets.md
 ---
 
 This page gives an overview of the European electricity markets. Click on a country to see details of how the market is organized.
