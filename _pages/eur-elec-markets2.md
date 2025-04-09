@@ -23,7 +23,7 @@ This page gives an overview of the European electricity markets. Click on a coun
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 110vh;
+        height: 100vh;
         padding: 20px;
       }
       #container {
