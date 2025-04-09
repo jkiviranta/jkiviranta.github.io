@@ -96,3 +96,6 @@ This page gives an overview of the European electricity markets. Click on a coun
         <path id="AD" d="M223 642.6h-.2l-.7.4-.3.1-.3.1h-.3l-.1-.2v-.7l-.1-.1v-.5l.3-.2.3-.2h.4l1 .4.2.2v.2l-.2.3v.2z"/>
         <path id="MT" d="M307.8 698.8h-.4l-.4-.2-.1-.1.5-.1h.3l.1.3zm1.7 1.4-.2.3h-.7l-.6-.5v-.8l.7.1.6.6.2.3z"/>
       </svg>
+    </div>
+  </body>
+</html>
