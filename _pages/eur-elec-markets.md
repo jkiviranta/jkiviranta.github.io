@@ -32,7 +32,7 @@ This page gives an overview of the European electricity markets. Click on a coun
             flex-direction: column;
           }
           svg path {
-              fill: #90D5FF;
+              fill: lightblue;
               stroke: #eee;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -40,15 +40,8 @@ This page gives an overview of the European electricity markets. Click on a coun
               transition: fill 0.3s;
           }
           svg path:hover {
-              fill: #0000FF; /* Highlight color */
-          }
-          #data-box {
-              margin-top: 20px;
-              width: 200px;
-              padding: 10px;
-              border: 1px solid #ccc;
-              background-color: #f9f9f9;
-          }        
+              fill: #00008B; /* Highlight color */
+          }     
       </style>
   </head>
   <body>
