@@ -27,8 +27,8 @@ This page gives an overview of the European electricity markets. Click on a coun
         padding: 20px;
       }
       #container {
-        width: 75%;
-        height: 75%;
+        width: 100%;
+        height: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -140,5 +140,5 @@ This page gives an overview of the European electricity markets. Click on a coun
           <circle cx="521" cy="266.6" id="2">
           </circle>
       </svg>
-</body>
+  </body>
 </html>
