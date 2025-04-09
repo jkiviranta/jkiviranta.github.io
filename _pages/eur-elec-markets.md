@@ -26,18 +26,13 @@ This page gives an overview of the European electricity markets. Click on a coun
             min-height: 100vh;
             padding: 20px;
           }
-          #container {
-            display: flex;
-            align-items: center;
-            flex-direction: column;
-          }
           svg path {
               fill: lightblue;
               stroke: #eee;
               stroke-linecap: round;
               stroke-linejoin: round;
               stroke-width: 0.1;
-              transition: fill 0.3s;
+              transition: fill 0.1s;
           }
           svg path:hover {
               fill: #00008B; /* Highlight color */
