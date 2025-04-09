@@ -26,6 +26,13 @@ This page gives an overview of the European electricity markets. Click on a coun
             min-height: 100vh;
             padding: 20px;
           }
+          #container {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            transform: scale(0.75); /* Scale the container to 75% */
+            transform-origin: top left; /* Ensure scaling from the top left corner */
+          }
           svg path {
               fill: lightblue !important;
               stroke: #eee;
@@ -41,7 +48,7 @@ This page gives an overview of the European electricity markets. Click on a coun
   </head>
   <body>
       <div id="container">
-          <svg baseprofile="tiny" height="513" version="1.2" viewBox="0 0 750 513" width="750" xmlns="http://www.w3.org/2000/svg">
+          <svg baseprofile="tiny" height="684" version="1.2" viewBox="0 0 1000 684" width="1000" xmlns="http://www.w3.org/2000/svg">
               <path d="M654.7 528.1l0.5 0.4 2 2.9 1.4 0.5 1.9 1.3 1.4 3.2 0.1 2.2-0.5 2.6 0.3 2.1-0.8 0.8 0.7 2 0.2 1.9 1.2 2.2 1.2 1.1 1.3 2.4 1.6-0.2 1.3 1.1 0 1.1 1.1 1.8-0.8 2.6-1.7 0.8-1.2 3.1-0.3 2-0.6 0.5-1.9 0.3-1.7 1.3 1 2.2-0.9 0.7-0.3 1.5-0.7 0.7-2.7-0.9-0.7-2.5-1.7-2.7-4.9-2.6-1.2-1.1 0.4-1.5-0.1-1.4-1.4-2.4 0.3-2.6 0.8-2.2-0.3-2.7 0.1-2.1-0.7-2.9 0.5-2.1 0.9-1.3-0.2-2.2-1.5-1.1-1.6-0.2 0-3.1-0.3-0.6 1.7 0-1.7-2.8 3.2-5.3 1.1 0.3 0.8 2.1 3.4-1.2z" id="AL" name="Albania">
               </path>
               <path d="M423.4 528.8l-2.8 1.1-0.7-0.4 0-2.1 0.9-0.7 2.6 0.6 0 1.5z" id="AD" name="Andorra">
