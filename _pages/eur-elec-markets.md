@@ -1,4 +1,3 @@
-
 ---
 permalink: "eur-elec-markets"
 title: "European Electricity Markets"
