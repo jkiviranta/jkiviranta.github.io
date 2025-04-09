@@ -1,58 +1,61 @@
+
 ---
 permalink: "eur-elec-markets"
 title: "European Electricity Markets"
 author_profile: true
 redirect_from: 
-  - /eur-elec-markets/
-  - /eur-elec-markets.md
+  - /eur-elec-markets/
+  - /eur-elec-markets.md
 ---
 
-This pages gives an overview of the European electricity markets. Click on a country to see details of how the market is organized.
+This page gives an overview of the European electricity markets. Click on a country to see details of how the market is organized.
 
 <html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <style>
-          * {
-            margin: 0;
-            padding: 0;
-          }
-          body {
-            background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-          }
-          #container {
-            display: flex;
-            align-items: center;
-          }
-          svg path {
-              fill: #90D5FF;
-              stroke: #eee;
-              stroke-linecap: round;
-              stroke-linejoin: round;
-              stroke-width: 0.1;
-              transition: fill 0.3s;
-          }
-          svg path:hover {
-              fill: #0000FF; /* Highlight color */
-          }
-          #data-box {
-              margin-left: 20px;
-              width: 200px;
-              padding: 10px;
-              border: 1px solid #ccc;
-              background-color: #f9f9f9;
-          }        
-      </style>
-  </head>
-  <body>
-      <div id="container">
-          <svg baseprofile="tiny" height="684" version="1.2" viewBox="0 0 1000 684" width="1000" xmlns="http://www.w3.org/2000/svg">
-              <path d="M654.7 528.1l0.5 0.4 2 2.9 1.4 0.5 1.9 1.3 1.4 3.2 0.1 2.2-0.5 2.6 0.3 2.1-0.8 0.8 0.7 2 0.2 1.9 1.2 2.2 1.2 1.1 1.3 2.4 1.6-0.2 1.3 1.1 0 1.1 1.1 1.8-0.8 2.6-1.7 0.8-1.2 3.1-0.3 2-0.6 0.5-1.9 0.3-1.7 1.3 1 2.2-0.9 0.7-0.3 1.5-0.7 0.7-2.7-0.9-0.7-2.5-1.7-2.7-4.9-2.6-1.2-1.1 0.4-1.5-0.1-1.4-1.4-2.4 0.3-2.6 0.8-2.2-0.3-2.7 0.1-2.1-0.7-2.9 0.5-2.1 0.9-1.3-0.2-2.2-1.5-1.1-1.6-0.2 0-3.1-0.3-0.6 1.7 0-1.7-2.8 3.2-5.3 1.1 0.3 0.8 2.1 3.4-1.2z" id="AL" name="Albania">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <style>
+          * {
+            margin: 0;
+            padding: 0;
+          }
+          body {
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+          }
+          #container {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+          }
+          svg path {
+              fill: #90D5FF;
+              stroke: #eee;
+              stroke-linecap: round;
+              stroke-linejoin: round;
+              stroke-width: 0.1;
+              transition: fill 0.3s;
+          }
+          svg path:hover {
+              fill: #0000FF; /* Highlight color */
+          }
+          #data-box {
+              margin-top: 20px;
+              width: 200px;
+              padding: 10px;
+              border: 1px solid #ccc;
+              background-color: #f9f9f9;
+          }        
+      </style>
+  </head>
+  <body>
+      <div id="container">
+          <svg baseprofile="tiny" height="684" version="1.2" viewBox="0 0 1000 684" width="1000" xmlns="http://www.w3.org/2000/svg">
+              <path d="M654.7 528.1l0.5 0.4 2 2.9 1.4 0.5 1.9 1.3 1.4 3.2 0.1 2.2-0.5 2.6 0.3 2.1-0.8 0.8 0.7 2 0.2 1.9 1.2 2.2 1.2 1.1 1.3 2.4 1.6-0.2 1.3 1.1 0 1.1 1.1 1.8-0.8 2.6-1.7 0.8-1.2 3.1-0.3 2-0.6 0.5-1.9 0.3-1.7 1.3 1 2.2-0.9 0.7-0.3 1.5-0.7 0.7-2.7-0.9-0.7-2.5-1.7-2.7-4.9-2.6-1.2-1.1 0.4-1.5-0.1-1.4-1.4-2.4 0.3-2.6 0.8-2.2-0.3-2.7 0.1-2.1-0.7-2.9 0.5-2.1 0.9-1.3-0.2-2.2-1.5-1.1-1.6-0.2 0-3.1-0.3-0.6 1.7 0-1.7-2.8 3.2-5.3 1.1 0.3 0.8 2.1 3.4-1.2z" id="AL" name="Albania">
               </path>
               <path d="M423.4 528.8l-2.8 1.1-0.7-0.4 0-2.1 0.9-0.7 2.6 0.6 0 1.5z" id="AD" name="Andorra">
               </path>
@@ -136,13 +139,14 @@ This pages gives an overview of the European electricity markets. Click on a cou
               </path>
               <path d="M306 611.9l-1.2 0.2-4.5 2.5-1.3 0-2.5-1.1-4.5-0.4-1.5-0.3-1.8 0.7-1.5 0-1.1 1-0.8-0.3 1-2.1 1.6-4.1 0-2.6 0.4-2.2-0.3-2.1-0.7-1.4 1.1-3.5 0-1.8-0.9-2.3 2.8 0.3-1.7-1.4-1.5 0-2.3 0.9-1.5 0.1 0.1-1.4-0.5-1.8 2-0.6 1.6-1.7-0.3-1.6-1.2 1.1-0.6 1.4-2.8 0.7-1.5-0.5 0-1.9 0.6-1.7 0.4-2.3 0.8-2.2-0.2-1.4 1.6-1.3 1.4-1.9 4.3-8.9-0.6-1 1.7-6.6 1.2-2.3 0.6-4.3-0.2-2-0.7-2-0.7-4.3 0-1.4-0.9-1.8 0.1-1 1.4-1.7 1.2-1.1 1.9-0.9 4.1-1 1 1.8-1.3 1.9 0.9 1.3 3-1.1 2.9-0.1 2.2 0.8 1.4 0 2.5-0.9 0.8-1.4 1.5 0.5 5.2 0.1 0.7 1.1 0.1 3.1 1.9 0.2 1.9 0.9 0.3 1.1-2.5 2.5-2.1 1.1-1.6 1.4-1.1 1.6-2 1.6 0.8 2 0.4 3.5-0.4 3.8 0.4 1.1-2.7 2.1-0.2 1 1.4 1.3 0 1.9-1.7 3.5-1 0.5-4.3 0-1.1 0.3 1.1 1.9 1.4 1.2 0.3 1.9 1.6 3.2 1.7 0.4 0.5 0.8-0.6 2.4-3.2 3-0.9 4 3 4.3 1.7-0.2-0.7 2.4-2.1 0.6-3.5 4.3-0.8 2.2 1.1 6.4z" id="PT" name="Portugal" onclick="showInfo('Portugal')">
               </path>
-              <!-- Add similar onclick attributes to other paths -->
-              <circle cx="399.9" cy="390.8" id="0">
-              </circle>
-              <circle cx="575.4" cy="412" id="1">
-              </circle>
-              <circle cx="521" cy="266.6" id="2">
-              </circle>
-          </svg>
-  </body>
+              <circle cx="399.9" cy="390.8" id="0">
+              </circle>
+              <circle cx="575.4" cy="412" id="1">
+              </circle>
+              <circle cx="521" cy="266.6" id="2">
+              </circle>
+          </svg>
+      </div>
+  </body>
 </html>
+
