@@ -19,7 +19,7 @@ This page gives an overview of the European electricity markets. Click on a coun
             padding: 0;
           }
           body {
-            background-color: #f4f4f4;
+            background-color: white;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -43,7 +43,10 @@ This page gives an overview of the European electricity markets. Click on a coun
           }
           svg path:hover {
               fill: #00008B !important; /* Highlight color */
-          }     
+          }
+          svg path#BE:hover {
+              fill: darkblue !important; /* Specific hover color for Belgium */
+          }          
       </style>
   </head>
   <body>
@@ -133,12 +136,6 @@ This page gives an overview of the European electricity markets. Click on a coun
               </path>
               <path d="M306 611.9l-1.2 0.2-4.5 2.5-1.3 0-2.5-1.1-4.5-0.4-1.5-0.3-1.8 0.7-1.5 0-1.1 1-0.8-0.3 1-2.1 1.6-4.1 0-2.6 0.4-2.2-0.3-2.1-0.7-1.4 1.1-3.5 0-1.8-0.9-2.3 2.8 0.3-1.7-1.4-1.5 0-2.3 0.9-1.5 0.1 0.1-1.4-0.5-1.8 2-0.6 1.6-1.7-0.3-1.6-1.2 1.1-0.6 1.4-2.8 0.7-1.5-0.5 0-1.9 0.6-1.7 0.4-2.3 0.8-2.2-0.2-1.4 1.6-1.3 1.4-1.9 4.3-8.9-0.6-1 1.7-6.6 1.2-2.3 0.6-4.3-0.2-2-0.7-2-0.7-4.3 0-1.4-0.9-1.8 0.1-1 1.4-1.7 1.2-1.1 1.9-0.9 4.1-1 1 1.8-1.3 1.9 0.9 1.3 3-1.1 2.9-0.1 2.2 0.8 1.4 0 2.5-0.9 0.8-1.4 1.5 0.5 5.2 0.1 0.7 1.1 0.1 3.1 1.9 0.2 1.9 0.9 0.3 1.1-2.5 2.5-2.1 1.1-1.6 1.4-1.1 1.6-2 1.6 0.8 2 0.4 3.5-0.4 3.8 0.4 1.1-2.7 2.1-0.2 1 1.4 1.3 0 1.9-1.7 3.5-1 0.5-4.3 0-1.1 0.3 1.1 1.9 1.4 1.2 0.3 1.9 1.6 3.2 1.7 0.4 0.5 0.8-0.6 2.4-3.2 3-0.9 4 3 4.3 1.7-0.2-0.7 2.4-2.1 0.6-3.5 4.3-0.8 2.2 1.1 6.4z" id="PT" name="Portugal" onclick="showInfo('Portugal')">
               </path>
-              <circle cx="399.9" cy="390.8" id="0">
-              </circle>
-              <circle cx="575.4" cy="412" id="1">
-              </circle>
-              <circle cx="521" cy="266.6" id="2">
-              </circle>
           </svg>
       </div>
   </body>
