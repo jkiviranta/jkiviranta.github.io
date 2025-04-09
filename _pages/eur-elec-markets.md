@@ -10,7 +10,7 @@ redirect_from:
 This page gives an overview of the European electricity markets. Click on a country to see details of how the market is organized.
 
 ---
-<html lang="en">
+<html>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -97,4 +97,6 @@ This page gives an overview of the European electricity markets. Click on a coun
        </svg>
   </body>
 </html>
+
 ---
+
