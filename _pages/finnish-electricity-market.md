@@ -6,11 +6,26 @@ redirect_from:
   - /finnish-electricity-market/
   - /finnish-electricity-market.md
 ---
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+
 This page gives an overview of the Finnish electricity market.
 
 ## Wholesale market
 
-<table border="1">
+<table>
   <tr>
     <td><strong>Auction format</strong></td>
     <td>Uniform price auction</td>
@@ -41,10 +56,23 @@ This page gives an overview of the Finnish electricity market.
   </tr>
 </table>
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
 
 ## Retail market
 
-<table border="1">
+<table>
   <tr>
     <td><strong>Liberalized retail market</strong></td>
     <td>Yes</td>
