@@ -40,6 +40,10 @@ This page gives an overview of the Finnish electricity market.
     <td><strong>Market place</strong></td>
     <td><a href="https://data.nordpoolgroup.com/auction/day-ahead/prices?deliveryDate=latest&currency=EUR&aggregation=DeliveryPeriod&deliveryAreas=AT">Nord Pool</a></td>
   </tr>
+  <tr>
+    <td><strong>Generation by source (2023)</strong></td>
+    <td>Nuclear (41,8%), fossil and peat (5,6%), hydro (19,2%), wind(18,5%), and solar (0,9%). <a href="">Statistics Finland 12b4</a></td>
+  </tr>  
 </table>
 
 ## Retail market
