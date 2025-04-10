@@ -42,7 +42,6 @@ This page gives an overview of the Belgian electricity market.
   </tr>
 </table>
 
-https://www.vlaamsenutsregulator.be/en
 
 ## Retail market
 
