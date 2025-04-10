@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic homepage!"
+title: "Juuso Kiviranta"
 author_profile: true
 redirect_from: 
   - /about/
