@@ -73,6 +73,10 @@ This page gives an overview of the Finnish electricity market.
     <td><strong>Retail price composition</strong></td>
     <td>Electricity price (incl. VAT), transmission price (regulated tariff from a monopolist grid operator) and electricity tax.</td>
   </tr>  
+  <tr>
+    <td><strong>Electricity in heating</strong></td>
+    <td>90% of apartment buildings are heated using district heat making them only indirectly affected by the electricity prices in heating. Detached houses use often electricity and the main energy sourcess for their heating are electricity (36%), heat pump (12%), geothermal (15%), oil (10%) and district heating (7%).</td>
+  </tr>    
 </table>
 
 <a href="../eur-elec-markets/" style="display: inline-block; padding: 10px 20px; background-color: lightblue; color: white; text-decoration: none; border-radius: 25px;">Back</a>
